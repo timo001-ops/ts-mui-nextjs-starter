@@ -9,13 +9,7 @@ sections:
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/sinonimi-di-prova.jfif
