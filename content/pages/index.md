@@ -6,9 +6,10 @@ sections:
     title: 'PROVA 8:13'
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      L'enciclopedia è un'opera di consultazione che raccoglie voci informative
+      o critiche «secondo un sistema logico, o anche sotto forma di voci singole
+      distribuite in ordine alfabetico», riguardanti l'intero campo della
+      conoscenza umana o un suo determinato ambito.
     actions: []
     image:
       type: Image
